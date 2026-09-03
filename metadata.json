@@ -1,0 +1,7 @@
+{
+  "name": "TruckBite",
+  "description": "Street food truck ordering app featuring live kitchen feeds, interactive menus, customizable burgers, real-time cart and checkout.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
